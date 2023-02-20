@@ -23,4 +23,7 @@ const HomeComponent = () =>{
         </section>
    )
 }
+
+{/* <About />
+<Portfolio /> */}
 root.render(<HomeComponent />)

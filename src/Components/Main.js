@@ -1,6 +1,6 @@
 const Main = () =>{
     return(
-        <div className="header-and-main">
+        <div className="header-and-main" id="homePage">
             <main className="main">
                 <div className="p" id = "first_p">
                     Software and website developer. <br></br>Interested in being a better person/developer than I was yeseterday.
